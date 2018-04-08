@@ -1,4 +1,4 @@
-@font-face{font-family:Merriweather;src:url(../fonts/Merriweather-Black.ttf)}@font-face{font-family:Merriweather-Light;src:url(../fonts/Merriweather-Light.ttf)}body,html{height:100%}.snow { 
+@font-face{font-family:Merriweather;src:url(../fonts/Merriweather-Black.ttf)}@font-face{font-family:Merriweather-Light;src:url(../fonts/Merriweather-Light.ttf)}body,html{height:100%} .snow-container { 
     position: fixed; 
     top: 0; 
     left: 0; 
